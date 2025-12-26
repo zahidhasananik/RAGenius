@@ -1,0 +1,28 @@
+Document Name: product_catalog_2024.pdf Page: 3
+
+SECTION: ULTRA-LITE X15 LAPTOP SPECIFICATIONS
+
+The Ultra-Lite X15 is designed for professionals who require high-performance computing in a mobile chassis.
+
+Product Specifications:
+
+Processor: Intel Core i9-13900H (14-Core, up to 5.4GHz)
+
+Memory: 32GB LPDDR5x-6400MHz (Dual-channel)
+
+Storage: 1TB PCIe Gen4 NVMe M.2 SSD
+
+Display: 15.6-inch OLED, 3.5K Resolution (3456 x 2160), 400 nits brightness.
+
+Battery: 86Whr Integrated Battery with 130W Type-C Fast Charging.
+
+Ports: 2x Thunderbolt 4, 1x USB 3.2 Gen 2, 1x HDMI 2.1.
+
+Weight: 1.25kg (approx. 2.75 lbs)
+
+🖼️ Sample OCR Content (For your Image Simulation)
+If you are passing an image via base64, your code's OCR engine (like Tesseract) will "see" text like this. You can use this text to verify your RAG logic.
+
+Image Filename: invoice_7721.jpg OCR Output:
+
+INVOICE #7721 Date: October 12, 2024 Bill To: Apex DMIT Solutions Description: Cloud Server Subscription - Premium Tier Quantity: 1 Unit Price: $450.00 Total Amount Due: $450.00 Status: PAID
