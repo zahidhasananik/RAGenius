@@ -68,6 +68,7 @@ Plaintext
 
 OPENAI_API_KEY=your_openai_api_key_here
 TESSERACT_PATH=/usr/bin/tesseract  # Path to your Tesseract OCR executable
+
 📋 API Usage
 1. Upload a Document
 Endpoint: POST /upload Used to ingest files and add them to the vector store.
@@ -99,6 +100,7 @@ JSON
   "context": "Payment terms: net 30 days from date of invoice...",
   "source": "page 2 of invoice.pdf"
 }
+
 🐳 Bonus Features (Implemented)
 
 Containerization: Full Docker support for easy deployment.
