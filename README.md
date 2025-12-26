@@ -1,5 +1,6 @@
 # RAGenius
 Smart Multi-Modal RAG API
+
 📌 Project Objective
 This project is a smart Retrieval-Augmented Generation (RAG) API designed to answer complex questions based on information extracted from a wide variety of document types. The system utilizes a FastAPI backend to process unstructured text, images (via OCR), and structured data to provide context-aware responses.
 
