@@ -17,3 +17,5 @@
 ### 📡 API Endpoints
 - `POST /upload`: Uploads .pdf, .docx, or .jpg.
 - `POST /ask`: Takes a JSON `{"question": "..."}` and returns Answer + Context + Source.
+
+- Project link- https://huggingface.co/spaces/Anik694/rag-genius
